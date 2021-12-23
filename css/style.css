@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400|Ropa+Sans&display=swap');
+*{margin: 0; padding: 0;}
+
+
+.header{
+	background-color: black;
+	width: 100%;
+	height: 40px;
+}
+.header .menu{
+	text-decoration: none;
+  	color: #f2f2f2;
+  	float: left;
+  	padding: 14px;
+  	font-family: 'Raleway', sans-serif;
+  	font-weight: 300;
+  	text-align: center;
+}
+.menu:hover{
+	border-top: 3px white solid;
+}
+.logo{
+	width: 3%;
+	height: 100%;
+	float: left;
+}
+
+
+.content{
+	width:95%;
+	height: 2000px;
+	margin-left: 2%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	border: black 3px solid;
+	background-color: black;
+}
+.head-container{
+	width: 80%;
+	margin: auto;
+	position: relative;
+	top: 1%;
+}
+#firstimg{
+	height: 10%;
+	width: 10%;
+	float: right;
+}
+#logoimg{
+	height: 20%;
+	width: 20%;
+	position: relative;
+	left: 30%;
+	top: 100px;
+}
+#qumbs{
+	font-family: 'Ropa Sans', sans-serif;
+	position: absolute;
+	font-size: 56px;
+	left: 51%;
+}
+#prog{
+	position: absolute;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 24px;
+	left: 51%;
+  top: 120%;
+}
+#contact-button{
+	border: 5px white solid;
+	padding-bottom: 1%;
+	padding-top: 0.6%;
+	padding-right: 6%;
+	padding-left: 6%;
+	text-decoration: none;
+	color: White;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 35px;
+	position: absolute;
+	left: 50%;
+	top:140%;
+}
+#secondimg{
+	width: 250px;
+	position: absolute;
+	top: 100%;
+	left: 1%;
+}
+#firstline{
+	position: relative;
+	top: 400px;
+	width: 80%;
+	margin: auto;
+	color: White;
+	size: 4px;
+}
+
+
+.portfolio-container{
+	width: 80%;
+	margin: auto;
+	position: relative;
+	top: 25%;
+}
+.jobs-container{
+	border: 3px solid White;
+	height: 650px;
+}
+.portfolio-text{
+	font-family: 'Ropa Sans', sans-serif;
+	color: White;
+	font-size: 50px;
+	position: absolute;
+	left: 40%;
+	top: 5%;
+}
+#portfolio-line{
+	position: relative;
+	top: 80px;
+	width: 80%;
+	margin: auto;
+	color: White;
+	size: 4px;
+}
+.more-button{
+  position: relative;
+  top: 200px;
+  text-align: center;
+  padding: 1%;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-decoration: none;
+  border: 2px solid White;
+  color: White;
+  font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+}
+
+
+.card{
+	position: relative;
+  display: inline-block;
+	width: 20%;
+	height: 450px;
+	border: 2px solid White;
+	top: 100px;
+  left: 8.5%;
+}
+.card img{
+	width: 100%;
+}
+.card-text-container{
+	width: 100%;
+	}
+.card-text{
+	position: relative;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	left: 1%;
+	margin: 1%;
+  color: White
+}
+.card-text-container a{
+	position: relative;
+	left: 25%;
+	top: 15px;
+	border: 2px solid White;
+	color: White;
+	font-family: 'Raleway', sans-serif;
+	padding: 3%;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: center;
+	font-weight: 300;
+	text-decoration: none;
+}
+
+
+
+.headtext{
+	color: White;
+}
