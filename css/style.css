@@ -28,7 +28,7 @@
 
 .content{
 	width:95%;
-	height: 2000px;
+	height: 2600px;
 	margin-left: 2%;
 	margin-top: 2%;
 	margin-bottom: 2%;
@@ -102,7 +102,7 @@
 	width: 80%;
 	margin: auto;
 	position: relative;
-	top: 25%;
+	top: 18%;
 }
 .jobs-container{
 	border: 3px solid White;
@@ -177,7 +177,85 @@
 	font-weight: 300;
 	text-decoration: none;
 }
+#secondline{
+	position: relative;
+	top: 550px;
+	width: 80%;
+	margin: auto;
+	color: White;
+	size: 4px;
+}
 
+
+.info-container{
+	width: 80%;
+	margin: auto;
+	position: relative;
+	top: 25%;
+}
+.info-text-container{
+	border: 3px solid White;
+	height: 550px;
+}
+.info-head{
+	font-family: 'Ropa Sans', sans-serif;
+	color: White;
+	font-size: 50px;
+	position: absolute;
+	left: 40%;
+	top: 5%;
+}
+#info-line{
+	position: relative;
+	top: 85px;
+	width: 80%;
+	margin: auto;
+	color: White;
+	size: 4px;
+}
+.info-text{
+	width: 80%;
+	margin: auto;
+	position: relative;
+	top: 100px;
+}.info-text p{
+	color: White;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+#social-line{
+	position: relative;
+	top: 20%;
+	width: 80%;
+	margin: auto;
+	color: White;
+	size: 4px;
+}
+.social-icons{
+	width: 80%;
+	text-align: center;
+	position: relative;
+	left: 10%;
+	top: 30%;
+
+}
+
+
+.footer-line{
+	width: 80%;
+	size:4;
+	margin: auto;
+	color: White;
+	margin-bottom: 5px;
+}
+.footer{
+	width: 100%;
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 40%;
+	font-family: 'Raleway', sans-serif;
+}
 
 
 .headtext{
